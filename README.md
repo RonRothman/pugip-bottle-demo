@@ -1,7 +1,7 @@
 pugip-bottle-demo
 =================
 We built this webapp in under an hour as part of a demo for
-the meetup event "[Bottle: When Small is Good](http://www.meetup.com/pug-ip/events/124708312/)."
+the Meetup event "[Bottle: When Small is Good](http://www.meetup.com/pug-ip/events/124708312/)."
 
 The webapp is meant to expose a simple API over a corpus of zip codes and
 their associated data.
@@ -36,4 +36,9 @@ Some usage:
     curl -H 'Content-type: application/json' --data '{"zip_code": "08540", "delta": 100}' 'http://127.0.0.1:8888/update-population'
 
     http://127.0.0.1:8888/browse
+
+The code and data can be found [here](http://ronrothman.com/public/pugip-bottle-demo/) or [here](https://github.com/RonRothman/pugip-bottle-demo).
+The original Python User Group event can be found [here](http://www.meetup.com/pug-ip/events/124708312/).
+
+Ron Rothman
 
