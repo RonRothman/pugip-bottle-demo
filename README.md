@@ -1,5 +1,5 @@
-We built this webapp in under an hour as part of a demo for
-the Meetup event "[Bottle: When Small is Good](http://www.meetup.com/pug-ip/events/124708312/)."
+We built this Python webapp in under an hour as part of the demo for
+"[Bottle: When Small is Good](http://ronrothman.com/public/pugip-bottle-demo/)" ([Meetup link](http://www.meetup.com/pug-ip/events/124708312/).
 
 The webapp is meant to expose a simple API over a corpus of zip codes and
 their associated data.
