@@ -1,12 +1,10 @@
-pugip-bottle-demo
-=================
 We built this webapp in under an hour as part of a demo for
 the Meetup event "[Bottle: When Small is Good](http://www.meetup.com/pug-ip/events/124708312/)."
 
 The webapp is meant to expose a simple API over a corpus of zip codes and
 their associated data.
 
-**This file represents the [annotated] final version, so it doesn't include
+**zipserver_annotated.py represents the [annotated] final version, so it doesn't include
 several of the intermediate teaching points I included during its construction.**
 
 It was created quickly, without any deep regard for extensibility.
